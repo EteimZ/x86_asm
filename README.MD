@@ -33,6 +33,14 @@ x86 has registers which are used to store values and addresses. They come in var
 - **ret**
 - **leave**
 
+## Tools for reverse engineering
+- **strings**
+- **objdump**
+- **radare2**
+- **gdb**
+- **l/strace**
+- **hexdump**
+
 
 
 
