@@ -1,6 +1,6 @@
 # x86_asm
 
-This repo contains guides and resources I am using to [x86 assembly](https://en.wikipedia.org/wiki/X86_assembly_language) 64 bit.
+This repo contains guides and resources I am using to learn [x86 assembly](https://en.wikipedia.org/wiki/X86_assembly_language) 64 bit.
 
 ## Registers
 x86 has registers which are used to store values and addresses. They come in various sizes: 64 bits, 32 bits, 16 bits. My primary focus is the 64 bit registers.
