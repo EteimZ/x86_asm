@@ -47,3 +47,4 @@ x86 has registers which are used to store values and addresses. They come in var
 ## References
 - [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 - [registes in x86 assembly](https://www.cs.uaf.edu/2017/fall/cs301/lecture/09_11_registers.html)
+- [Linux System Call Table](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md)
